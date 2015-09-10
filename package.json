@@ -1,6 +1,6 @@
 {
   "name": "nex-engines",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "nex-engines",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tjwebb/nex-engines.git"
+    "url": "git://github.com/xtuple/nex-engines.git"
   },
   "keywords": [
     "nex",
@@ -18,9 +18,9 @@
   "author": "Travis Webb <me@traviswebb.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tjwebb/nex-engines/issues"
+    "url": "https://github.com/xtuple/nex-engines/issues"
   },
-  "homepage": "https://github.com/tjwebb/nex-engines",
+  "homepage": "https://github.com/xtuple/nex-engines",
   "dependencies": {
     "colors": "^0.6.2",
     "lodash": "^2.4.1",
